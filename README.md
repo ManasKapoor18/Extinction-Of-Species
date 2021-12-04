@@ -1,4 +1,3 @@
-
 # Extinction-Of-Species
 
 Data Analysis of various species which have gone extinct or are on the verge of extinction.
@@ -20,4 +19,5 @@ Also Object Oriented Programming!
 ## Authors
 
 - [@manaskapoor](https://github.com/ManasKapoor18)
+
 
